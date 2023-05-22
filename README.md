@@ -2,7 +2,7 @@
 My career has allowed me to apply data science and machine learning to many fields. I enjoy taking an idea from experimentation to production. I have been able to acquire strong skills in fields related to data science.
 I also had the pleasure of recruiting, coaching and mentoring young data profiles.
 I am now looking to put my skills at the service of a company whose impact on nature (climate, biodiversity) is positive (or neutral by default).
-### Education 
+## *Education*
 *I followed civil engineer studies, specialized in transportation system and always picked the most analytical options*
 * **Imperial College London**
 
@@ -14,7 +14,7 @@ I am now looking to put my skills at the service of a company whose impact on na
     *Engineering Diploma* : specialised in transportation  (2010 - 2013)
 
 
-###  Professional Experience
+##  *Professional Experience*
 *After a first job as a Civil Servant, I learnt python and  data science on my free time using Cousera and Kaggle, I then got a first job as a Junior Data Scientist at Quantmetry in 2017 and kept working in this field since*
  
 
