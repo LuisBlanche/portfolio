@@ -1,13 +1,13 @@
-# Alerting module for PowerOP, a food production line monitooring SAAS 
+## Alerting module for PowerOP, a food production line monitooring SAAS 
 
 
-## Context 
+### Context 
 Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop) a software as a service intended for the food processing industry. It centralises the data from the production line (sensors, settings, ingredients, recipes, etc. ) and leverages data visualisation and machine learning to help saving resources and improve quality. 
 
 The alert module is used to notify the workers on the production line when something is going wrong or is going to go wrong in the near future. 
 
 
-## Methodology 
+### Methodology 
 
 There are different types of alerts : some are very basic and are just about making sure that a parameter stays inside a predefined interval (e.g. that the temperature stays below 200 °C ). Other types of alert are more sophisticated and rely on machine learning, like forecasting, classical time series analysis, supervised or unsupervised learning.
 
@@ -15,7 +15,7 @@ We built an AutoML pipeline that is configurable (eg: the input parameters are s
 
 ![shap values](../assets/img/Dataswati/AlertShap.svg)
 
-## Tools
+### Tools
 
 - MongoDB as the main database 
 - Python : pandas, LightGBM, scikit-learn, shap, optuna, mlflow 
@@ -23,11 +23,11 @@ We built an AutoML pipeline that is configurable (eg: the input parameters are s
 - Docker for packaging 
 - VSCode for development
 
-## My involvment 
+### My involvment 
 
 I lead this project from start to finish including IHM design and product discussions with the management team and the customers, development of the code and the machine learning models, management of the development team
 
-## Results and achievements
+### Results and achievements
 
 - first machine learning project that was put in production in real time at Dataswati
 - lead to a customer actually conducting test on a production line to try and avoid a recuring problem that was well explained by the alert
