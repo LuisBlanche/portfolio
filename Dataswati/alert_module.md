@@ -2,7 +2,7 @@
 
 
 ## Context 
-Dataswati develops PowerOP a software as a service intended for the food processing industry. It centralises the data from the production line (sensors, settings, ingredients, recipes, etc. ) and leverages data visualisation and machine learning to help saving resources and improve quality. 
+Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop) a software as a service intended for the food processing industry. It centralises the data from the production line (sensors, settings, ingredients, recipes, etc. ) and leverages data visualisation and machine learning to help saving resources and improve quality. 
 
 The alert module is used to notify the workers on the production line when something is going wrong or is going to go wrong in the near future. 
 
