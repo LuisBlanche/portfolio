@@ -6,7 +6,7 @@ Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop), a Software-a
 
 The analysis module helps users investigate anomalies or issues occurring along the food manufacturing process through detailed evaluation of data-driven insights. Users may query, "What is causing a specific quality issue?" or "Why is my power consumption spiking periodically?" 
 
-If you wish to learn more about how PowerOP could benefit your organization, please visit the [official website](https://www.dataswati.com/en/powerop), you can ask for a demo on the website or or email the CEO directly at averleyen@dataswati.com to schedule a customized demonstration using the subject line "PowerOP Demo."
+If you wish to learn more about how PowerOP could benefit your organization, please visit the [official website](https://www.dataswati.com/en/powerop), you can ask for a demo on the website or or email the CEO directly at [averleyen@dataswati.com](averleyen@dataswati.com) to schedule a customized demonstration using the subject line "PowerOP Demo."
 
 
 ### Methodology 

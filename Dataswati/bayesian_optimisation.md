@@ -7,7 +7,7 @@ Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop), a Software-a
 
 Built in partnership with a customer, this POC aimed to showcase the capacity to expedite and lower costs associated with a lab testing phase geared towards creating a novel product. Eventually, the goal is to integrate this feature into [PowerOP](https://www.dataswati.com/en/powerop), allowing users to explore different ingredients and processing methods while operating on current production lines.
 
-If you wish to learn more about how PowerOP could benefit your organization, please visit the [official website](https://www.dataswati.com/en/powerop), you can ask for a demo on the website or or email the CEO directly at averleyen@dataswati.com to schedule a customized demonstration using the subject line "PowerOP Demo."
+If you wish to learn more about how PowerOP could benefit your organization, please visit the [official website](https://www.dataswati.com/en/powerop), you can ask for a demo on the website or or email the CEO directly at [averleyen@dataswati.com](averleyen@dataswati.com) to schedule a customized demonstration using the subject line "PowerOP Demo."
 
 ### Methodology 
 

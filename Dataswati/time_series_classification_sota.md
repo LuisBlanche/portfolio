@@ -9,7 +9,7 @@ Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop), a Software-a
 The goal of this project was to investigate innovative approaches for accurately classifying time series, particularly those derived from sensors, as part of implementing certain AI functionalities within PowerOP. Achieving precision across numerous instances of time series played a pivotal role in establishing effective alarm systems, among other crucial applications. By examining contemporary methods in this area, we sought to identify suitable technologies that would meet high standards required for operational deployment within PowerOP.
 
 
-If you wish to learn more about how PowerOP could benefit your organization, please visit the [official website](https://www.dataswati.com/en/powerop), you can ask for a demo on the website or or email the CEO directly at averleyen@dataswati.com to schedule a customized demonstration using the subject line "PowerOP Demo."
+If you wish to learn more about how PowerOP could benefit your organization, please visit the [official website](https://www.dataswati.com/en/powerop), you can ask for a demo on the website or or email the CEO directly at [averleyen@dataswati.com](averleyen@dataswati.com) to schedule a customized demonstration using the subject line "PowerOP Demo."
 
 ### Methodology 
 ![image](https://www.sktime.net/en/latest/_images/tsc.png)
