@@ -2,16 +2,18 @@
 
 
 ### Context 
-Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop) a software as a service intended for the food processing industry. It centralises the data from the production line (sensors, settings, ingredients, recipes, etc. ) and leverages data visualisation and machine learning to help saving resources and improve quality. 
+Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop), a Software-as-a-Service designed for the food processing industry. It collects data from various sources such as sensors, settings, ingredients, and recipes and uses advanced analytics to reduce resource consumption while improving product quality.
 
-The alert module is used to notify the workers on the production line when something is going wrong or is going to go wrong in the near future. 
+The Alert Module has been designed as a notification mechanism for the production line, providing critical information regarding impending challenges or those already occurring. Implementing cutting-edge technology, this robust system serves to proactively address concerns before they escalate or rapidly respond to current obstacles. Through its flawless integration within the system, the Alert Module effectively reduces operation interruption, enhancing overall performance and efficiency.
 
 
+If you wish to learn more about how PowerOP could benefit your organization, please visit the [official website](https://www.dataswati.com/en/powerop), you can ask for a demo on the website or or email the CEO directly at averleyen@dataswati.com to schedule a customized demonstration using the subject line "PowerOP Demo."
 ### Methodology 
 
-There are different types of alerts : some are very basic and are just about making sure that a parameter stays inside a predefined interval (e.g. that the temperature stays below 200 °C ). Other types of alert are more sophisticated and rely on machine learning, like forecasting, classical time series analysis, supervised or unsupervised learning.
+Our product offers diverse categories of alerts, including rudimentary ones that monitor preset parameters to ensure stability, along with intricate versions utilizing sophisticated machine learning techniques such as forecasting, classification analyses, supervised/unsupervised learning, etc., maximizing accuracy.
 
-We built an AutoML pipeline that is configurable (eg: the input parameters are stored in a MongoDB Document). The user just has to define a binary classification problem, and other parameters such as the prediction horizon, the variables to include or to exclude in the model, the dates delimiting the training and validation sets, etc. Once all the parameters are set, a classification models will be trained (LightGBM, RandomForest or simple Logistic Regressions for baseline) on aggregation of the different time series and evaluated on the validation set. The best model is picked and used for alert prediction. The models are automatically retrained periodically and the new models are compared to the production model in terms of performance on the new test set. If the new model performs better it replaces the older one in production. A report is generated periodically to assess the real performance of the alert. A recommendation loop is ran using SHAP values perturbations to see how we could have avoided the alert and point to the problematic variables. There is a feedback loop as well from the user that can validate or invalidate an alert so that if he acts upon an alert and the problem does not occur it is not counted as a False Positive alert, rather as a True Positive that allowed to avoid the problem ! 
+By incorporating an intelligently configured AutoML workflow, we facilitate easy adaptation to match your project requirements. Simply select the classification type and desired features, and our algorithm will generate high-quality models by analyzing combined time series, evaluating them against corresponding validation sets, and selecting the strongest performer for reliable predictions. Periodic reassessments ensure continuous effectiveness, supplemented by detailed reports on alert performance, offering transparency into the system's behavior. To encourage interactive communication with end-users and further optimize outcomes, our platform enables manual verification or dismissal of triggered alerts. This iterative process fosters cooperation between human intuition and automated decision-making processes, driving improvements through personalized suggestions extracted from refined statistical insights gathered via SHAP value alterations. By balancing user involvement and cutting-edge tech, our system harmoniously blends human expertise with artificial intelligence to achieve successful detection and resolution of potential problems, ultimately leading to improved efficiency across target industries.
+
 
 ![shap values](../assets/img/Dataswati/AlertShap.svg)
 
@@ -25,13 +27,11 @@ We built an AutoML pipeline that is configurable (eg: the input parameters are s
 
 ### My involvment 
 
-I lead this project from start to finish including IHM design and product discussions with the management team and the customers, development of the code and the machine learning models, management of the development team
+As the lead for this venture, my responsibilities encompassed every stage, ranging from Interactive Human Machine (IHM) interface conception to management dialogues concerning the commodity and customer interactions. My duties also entailed heading the development staff, formulating the software program, and developing the ML algorithms. Throughout the course of the project, I guided and coordinated efforts to bring forth effective results fulfilling the expectations of both internal entities and external clients.
 
 ### Results and achievements
 
-- first machine learning project that was put in production in real time at Dataswati
-- lead to a customer actually conducting test on a production line to try and avoid a recuring problem that was well explained by the alert
-- one of the main selling argument for PowerOP
+This pioneering project marked Dataswati's initial foray into operationalizing AI in real-time environments, paving the way for future initiatives. It allowed a client to undertake experimental trials on an active production line, tackling recurrent challenges exposed by the custom alerts. As a result, it strengthened our position as a supplier of innovative AI-powered industrial services, bolstered by the combination of advanced technology and exceptional support.
 
 
 

@@ -3,24 +3,25 @@
 
 
 ### Context 
-Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop) as a service intended for the food processing industry. It centralises the data from the production line (sensors, settings, ingredients, recipes, etc. ) and leverages data visualisation and machine learning to help saving resources and improve quality. 
+Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop), a Software-as-a-Service designed for the food processing industry. It collects data from various sources such as sensors, settings, ingredients, and recipes and uses advanced analytics to reduce resource consumption while improving product quality.
 
-This experiment plan assistant proof of concept was built with a customer to demonstrate the ability to accelerate and reduce the cost of a laboratory phase looking for a recipe for a new product. The idea is then to implement it as a feature of [PowerOP](https://www.dataswati.com/en/powerop) to allow for experimenting with new ingredients and new processes on existing production lines.
+Built in partnership with a customer, this POC aimed to showcase the capacity to expedite and lower costs associated with a lab testing phase geared towards creating a novel product. Eventually, the goal is to integrate this feature into [PowerOP](https://www.dataswati.com/en/powerop), allowing users to explore different ingredients and processing methods while operating on current production lines.
+
+If you wish to learn more about how PowerOP could benefit your organization, please visit the [official website](https://www.dataswati.com/en/powerop), you can ask for a demo on the website or or email the CEO directly at averleyen@dataswati.com to schedule a customized demonstration using the subject line "PowerOP Demo."
 
 ### Methodology 
 
-When building an experiment plan, the laboratory comes up with a finite set of tests to explore the possibilities and rate the results to sort them and then be able to make an informed choice with the data created. The size of this set of test is constrained by the ressources limitations of the lab (time, costs, machines, people, etc.). Hence they are only able to try out a small subset of the parameter space that are chosen mostly using domain knowledge of the experts.
+When generating an experiment plan, laboratories traditionally adhere to a finite set of predetermined assays designed to examine various scenarios and evaluate their consequences. These evaluations are subjected to rigorous sorting procedures based on resource limitations, including factors such as available time, budgetary restraints, machinery requirements, and personnel availability. This approach is primarily reliant on expert insights, making exploration of the full parameter landscape impractical.
 
-This project's goal was to leverage data and Bayesian Optimisation (while still relying on domain knowledge using constraints) to define the set of tests iteratively and to prove that this methodology converges faster to a satisfying result (eg: less tests for same result).
+Our objective here was to revolutionize traditional experiment design workflow through the integration of advanced data analytics and Bayesian Optimization principles. By leveraging these technologies, we sought to refine the selection process, ultimately minimizing the number of required experiments while achieving equivalent results.
 
-The most important part of this project was to frame it and to define the parameter space, the objective function, and the constraints. 
+Critically defining the scope and parameters was fundamental to accomplishing our objectives. Our primary focus centered on determining the optimum parameter range, objective function, and constraints to achieve optimal efficiency during our iterative process utilizing the [Meta Ax platform] (https://ax.dev/docs/bayesopt.html).
 
-Then the [Meta Ax platform] (https://ax.dev/docs/bayesopt.html)  was used to create an optimization loop. The advantage of Ax is that it implements state of the art Bayesian Optimisation algorithms that allow large dimension as well as reprogramming of the parameter space, objective function or constraints at each step. That allows for human in the loop intervention to bring in that domain knowledge which is how we get the best of both worlds!
+Ax offers cutting-edge Bayesian Optimization techniques facilitating large-scale operations and continuous adaptation of the parameter space, objective functions, and constraints throughout the investigation cycle. By incorporating these features, we were able to introduce domain understanding, foster seamless collaboration between human analysts and the automated system, and enhance overall performance.
 
 ![bayesian optimisation](../assets/img/Dataswati/bayesian_optimisation.png)
 
-
-We were able to show running it on historical test data that using this methodology would have allowed finding the best existing recipe much faster. We then started applying in in real time with the lab through an excel sheet that was updated by the optimization loop. Unfortunately we were not able to reach the convergence phase of the loop before the project was stopped by the customer because of lack of resources and failure of framing the correct problem on their side.
+The implementation of this methodology resulted in significantly faster identification of the most effective established recipes when applied retrospectively across historical data. Following successful simulation validation, we transitioned to real-time operation alongside laboratory activities using an Excel interface synchronized with the optimization loop. Regrettably, however, the project had to be discontinued prematurely due to insufficient resources allocated and difficulties in accurately formulating the appropriate problem statement on the client side."
 
 
 ### Tools
@@ -31,7 +32,7 @@ We were able to show running it on historical test data that using this methodol
 
 ### My involvment 
 
-I took this project over from an intern to make it viable to use it and experiment with it with a customer. I was developing as well as exchanging with the customer.
+As part of my ongoing development work on this project, I assumed responsibility for further refining its functionality to better suit the needs of potential users while maintaining open communication channels with our clientele.
 
 ### Results and achievements
 
