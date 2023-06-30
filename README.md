@@ -16,7 +16,8 @@ I am now looking to put my skills at the service of a company whose impact on na
 
 ##  *Professional Experience*
 *After a first job as a Civil Servant, I learnt python and  data science on my free time using Cousera and Kaggle, I then got a first Data Science job as a Junior Data Scientist at Quantmetry in 2017 and kept working in this field since until my last job leading the data team at Dataswati. I have then traveled the world with my wife for 8 months, and I am now coming back to work as a Freelance*
- 
+
+Find links to all projects [HERE](list_all_projects.md)
 
 * Freelance Data Scientist *(Jul 2023 - Present)*  -> [projects](Quantmetry/Junior/list_of_projects.md)
 
