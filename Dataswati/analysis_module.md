@@ -1,12 +1,12 @@
-## Analysis module for [PowerOP](https://www.dataswati.com/en/powerop), a food production line monitooring SAAS 
+## Analysis module for a food production line monitooring SAAS 
 
 
 ### Context 
-Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop), a Software-as-a-Service designed for the food processing industry. It collects data from various sources such as sensors, settings, ingredients, and recipes and uses advanced analytics to reduce resource consumption while improving product quality.
+Dataswati develops a Software-as-a-Service designed for the food processing industry. It collects data from various sources such as sensors, settings, ingredients, and recipes and uses advanced analytics to reduce resource consumption while improving product quality.
 
 The analysis module helps users investigate anomalies or issues occurring along the food manufacturing process through detailed evaluation of data-driven insights. Users may query, "What is causing a specific quality issue?" or "Why is my power consumption spiking periodically?" 
 
-If you wish to learn more about how PowerOP could benefit your organization, please visit the [official website](https://www.dataswati.com/en/powerop), you can ask for a demo on the website or or email the CEO directly at [averleyen@dataswati.com](averleyen@dataswati.com) to schedule a customized demonstration using the subject line "PowerOP Demo."
+If you wish to learn more about how this could benefit your organization, please visit the [official website](https://www.dataswati.com/en), you can ask for a demo on the website or or email the CEO directly at [averleyen@dataswati.com](averleyen@dataswati.com) to schedule a customized demonstration.
 
 
 ### Methodology 
@@ -38,7 +38,7 @@ As the lead for this project, I rolled up my sleeves and gave it a complete make
 
 - Saved a floundering project by doing a total renovation, making sure it'll last for years to come.
 - Connected with clients to tackle real issues they faced, leading to breakthrough improvements thanks to us!
-- This module is one of the main selling argument for PowerOP because it can be used with only historical data (no need to implement a live connection)
+- This module is one of the main selling argument for the company because it can be used with only historical data (no need to implement a live connection)
 
 
 

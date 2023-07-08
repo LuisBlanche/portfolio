@@ -1,13 +1,13 @@
-## Alerting module for PowerOP, a food production line monitooring SAAS 
+## Alerting module for a food production line monitooring SAAS 
 
 
 ### Context 
-Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop), a Software-as-a-Service designed for the food processing industry. It collects data from various sources such as sensors, settings, ingredients, and recipes and uses advanced analytics to reduce resource consumption while improving product quality.
+Dataswati develops a Software-as-a-Service designed for the food processing industry. It collects data from various sources such as sensors, settings, ingredients, and recipes and uses advanced analytics to reduce resource consumption while improving product quality.
 
 The Alert Module has been designed as a notification mechanism for the production line, providing critical information regarding impending challenges or those already occurring. Implementing cutting-edge technology, this robust system serves to proactively address concerns before they escalate or rapidly respond to current obstacles. Through its flawless integration within the system, the Alert Module effectively reduces operation interruption, enhancing overall performance and efficiency.
 
 
-If you wish to learn more about how PowerOP could benefit your organization, please visit the [official website](https://www.dataswati.com/en/powerop), you can ask for a demo on the website or or email the CEO directly at [averleyen@dataswati.com](averleyen@dataswati.com) to schedule a customized demonstration using the subject line "PowerOP Demo."
+If you wish to learn more about how this SAAS could benefit your organization, please visit the [official website](https://www.dataswati.com/en), you can ask for a demo on the website or or email the CEO directly at [averleyen@dataswati.com](averleyen@dataswati.com) to schedule a customized demonstration.
 ### Methodology 
 
 Our product offers diverse categories of alerts, including rudimentary ones that monitor preset parameters to ensure stability, along with intricate versions utilizing sophisticated machine learning techniques such as forecasting, classification analyses, supervised/unsupervised learning, etc., maximizing accuracy.

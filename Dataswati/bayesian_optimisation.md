@@ -3,11 +3,11 @@
 
 
 ### Context 
-Dataswati develops [PowerOP](https://www.dataswati.com/en/powerop), a Software-as-a-Service designed for the food processing industry. It collects data from various sources such as sensors, settings, ingredients, and recipes and uses advanced analytics to reduce resource consumption while improving product quality.
+Dataswati develops a Software-as-a-Service designed for the food processing industry. It collects data from various sources such as sensors, settings, ingredients, and recipes and uses advanced analytics to reduce resource consumption while improving product quality.
 
-Built in partnership with a customer, this POC aimed to showcase the capacity to expedite and lower costs associated with a lab testing phase geared towards creating a novel product. Eventually, the goal is to integrate this feature into [PowerOP](https://www.dataswati.com/en/powerop), allowing users to explore different ingredients and processing methods while operating on current production lines.
+Built in partnership with a customer, this POC aimed to showcase the capacity to expedite and lower costs associated with a lab testing phase geared towards creating a novel product. Eventually, the goal is to integrate this feature into the SAAS platform, allowing users to explore different ingredients and processing methods while operating on current production lines.
 
-If you wish to learn more about how PowerOP could benefit your organization, please visit the [official website](https://www.dataswati.com/en/powerop), you can ask for a demo on the website or or email the CEO directly at [averleyen@dataswati.com](averleyen@dataswati.com) to schedule a customized demonstration using the subject line "PowerOP Demo."
+If you wish to learn more about how this could benefit your organization, please visit the [official website](https://www.dataswati.com/en/), you can ask for a demo on the website or or email the CEO directly at [averleyen@dataswati.com](averleyen@dataswati.com) to schedule a customized demonstration.
 
 ### Methodology 
 
