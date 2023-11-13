@@ -19,7 +19,7 @@ I am now looking to put my skills at the service of a company whose impact on na
 
 Find links to all projects [HERE](list_all_projects.md)
 
-* Freelance Data Scientist *(Jul 2023 - Present)*  -> [projects](Quantmetry/Junior/list_of_projects.md)
+* Freelance Data Scientist *(Jul 2023 - Present)*  -> [projects](Freelance/list_of_projects.md)
 
 * Lead Data Scientist at [Dataswati](https://www.dataswati.com/) *(Jan 2021 - Nov 2022)*  -> [projects](Dataswati/list_of_projects.md)
 
