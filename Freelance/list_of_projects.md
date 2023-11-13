@@ -1,1 +1,3 @@
 - [Carbon Footprint of travel](carbon_footprint.md)
+- [E-Commerce Product Classifications with LLMs](llm_product_categorization.md)
+- [Data Science Consulting with the Head of Science in HR Tech](ai_advisor.md)
